@@ -1,0 +1,32 @@
+_repo: The-Bobbsey-Twins-on-a-Houseboat_5948
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hope, Laura Lee
+    gutenberg_agent_id: '367'
+    url: http://www.gutenberg.org/2009/agents/367
+    wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
+description: 'The Bobbsey Twins are the principal characters of what was, for many
+  years, the longest-running series of children''s novles. The books related the adventures
+  of the children of the middle-class Bobbsey family, which included two sets of fraternal
+  twins: Bert and Nan, who where 12 years old, and Flossie and Freddie, who where
+  six. Share the stories of your childhood with your children and grandchildren! Here
+  are the original Bobbsey Twin adventures.'
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Houseboats -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Bobbsey Twins (Fictitious characters) -- Juvenile fiction'
+- !lcsh 'Twins -- Juvenile fiction'
+- GITenberg
+title: The Bobbsey Twins on a Houseboat
+url: http://www.gutenberg.org/ebooks/5948
